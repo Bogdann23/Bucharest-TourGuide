@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Bucharest - Tour Guide</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_Main">Main Attractions</string>
+    <string name="category_Restaurants">Traditional Restaurants</string>
+    <string name="category_Shopping">Shopping</string>
+    <string name="category_FreeTIme">Free Time Activities</string>
+
+    <string name="parliament_palace">The Palace of the Parliament (Romanian: Palatul Parlamentului)
+       is the seat of the Parliament of Romania. Located on Dealul Arsenalului in central Bucharest
+       (Sector 5), it is the second-largest administrative building in the world,[1] after the
+       Pentagon in the United States. With a height of 84 m, an area of 365,000 m2 and having a
+       volume of 2,550,000 m3, it is also the fourth biggest building in the world, after the
+       Vehicle Assembly Building at Kennedy Space Center in Florida, the Temple of the Feathered
+       Serpent in Teotihuacan, Mexico, and the Pentagon. In terms of weight,
+       the Palace of the Parliament is the heaviest building in the world, weighing in at around
+       4,098,500,000 kg.</string>
+
+    <string name="romanian_athenaeum">The Romanian Athenaeum (Romanian: Ateneul Român) is a concert
+        hall in the center of Bucharest, Romania and a landmark of the Romanian capital city.
+        Opened in 1888, the ornate, domed, circular building is the city main concert hall and
+        home of the "George Enescu" Philharmonic and of the George Enescu annual international
+        music festival.</string>
+
+    <string name="village_museum">The Village Museum (Muzeul Satului in Romanian) is an open-air
+        ethnographic museum located in the Herăstrău Park (Bucharest, Romania), showcasing
+        traditional Romanian village life. The museum extends to over 100,000 m2, and contains
+        272 authentic peasant farms and houses from all over Romania.</string>
+
+    <string name="Hanul_lui_Manuc">Manuc Inn (Romanian: Hanul lui Manuc, pronounced
+        [ˈ\hanu(l) luj maˈ\nuk]) was, until it was recently[when?] shut for restoration and
+        refurbishment, the oldest operating hotel building in Bucharest, Romania; it also housed
+        a popular restaurant, several bars, a coffee-house, and (facing the street) several stores
+        and an extensive bar. Its massive, multiply balconied courtyard hosted many performances
+        and fairs and was a popular place for Romanian television crews to shoot folkloric
+        performances. The hotel and restaurant were closed down in 2007 for refurbishment;
+        [citation needed] shops[citation needed] and a bar known both as Cafeaneaua Bucurestilor de
+        Altadata ("Bucharest of Yesteryear" Cafe) and as Festival 39 remained open (though the bar
+        closed in February 2010).[1] The hotel and restaurant are expected to reopen under new
+        management once the restoration and refurbishment are completed.[citation needed] However,
+        there appear to be disagreements between the city government and the owners about the
+        legality of certain modernizations being undertaken.</string>
+
+    <string name="Carul_cu_Bere">The Carul cu Bere (aka Carul cu Bere; "the beer wagon") is a bar
+        and restaurant on Stavropoleos Street in the Lipscani district of Bucharest, Romania,
+        opened in 1879[1] and moved to the current location, a gothic revival building designed
+        by Austrian architect Siegfrid Kofczinsky, in 1899. It is noted for its interior decoration,
+        in art nouveau style.</string>
+
+    <string name="Restaurant_Vatra">The Vatra Restaurant opened up December 2001 and ever since it
+        has been the place where the Romanian cuisine is pleasantly supplemented by the authenticity
+        of the Transylvanian sets.</string>
+
+    <string name="Baneasa_Shopping">Baneasa Shopping City is a shopping mall in Bucharest, Romania.
+        Address: Șoseaua București-Ploiești 42D, București 015011</string>
+
+    <string name="Afi_Pallace">AFI Palace Cotroceni is a shopping mall in Bucharest, Romania. It is
+        located in the central-western part of the city, between the city center and two of the
+        largest residential districts, Militari and Drumul Taberei.
+        Address: Bulevardul Vasile Milea 4, București 061344</string>
+
+    <string name="Promenada">Shopping mall in Bucharest, Romania
+        Address: Calea Floreasca 246B, București</string>
+
+    <string name="Herastrau">Herăstrău Park (Romanian: Parcul Herăstrău) is a large park on the
+        northern side of Bucharest, Romania, around Lake Herăstrău, one of the lakes formed by the
+        Colentina River. The park has an area of about 187 ha, of which 74 ha is the lake.
+        Initially, the area was full of marshes, but these were drained between 1930 and 1935, and
+        the park was opened in 1936. The park is divided into two zones: a rustic or natural zone
+        (the Village Museum), which is left more or less undisturbed, and a public domain
+        with open areas for recreation activities. Small boats are allowed on the lake.</string>
+
+    <string name="Cismigiu">The Cișmigiu Gardens or Cișmigiu Park are a public park near the center
+        of Bucharest, Romania, spanning areas on all sides of an artificial lake. The gardens
+        creation was an important moment in the history of Bucharest.</string>
+
+    <string name="Natural_History">The Grigore Antipa National Museum of Natural History is a
+        Natural History museum, located in Bucharest, Romania. It was originally established as
+        the National Museum of Natural History on 3 November 1834.</string>
+
+    <string name="Palace_of_Parliament">Palace of Parliament</string>
+
+    <string name="Romanian_Athenaeum">Romanian Athenaeum</string>
+
+    <string name="Hanul">Hanul lui Manuc</string>
+
+    <string name="Caru_cu_Bere">Carul cu Bere</string>
+
+    <string name="Village_Museum">Village Museum</string>
+
+    <string name="Rest_Vatra">Restaurant Vatra</string>
+
+    <string name="Baneasa">Baneasa Shopping City</string>
+
+    <string name="Afi_Pallace_Mall">Afi Palace Cotroceni</string>
+
+    <string name="Promenada_Mall">Promenada Mall</string>
+
+    <string name="Walk_in_Herastrau_Park">Walk in Herastrau Park</string>
+
+    <string name="Walk_in_Cismigiu_Gardens">Walk in Cismigiu Gardens</string>
+
+    <string name="Visit_Museum_of_Natural_History">Visit Museum of Natural History</string>
+
+
+</resources>
